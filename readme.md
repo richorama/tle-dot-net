@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r7dnhpxe5rk86ff0/branch/master?svg=true)](https://ci.appveyor.com/project/richorama/tle-dot-net/branch/master)
+
 # TLE Parser for .NET
 
 Two-line element parser.
