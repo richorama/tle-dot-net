@@ -8,6 +8,14 @@ A two-line element set (TLE) is a data format used to convey sets of orbital ele
 
 For more information on the data structure, please consult [NASA Human Space Flight](https://spaceflight.nasa.gov/realdata/sightings/SSapplications/Post/JavaSSOP/SSOP_Help/tle_def.html)
 
+## Installation
+
+Use the [nuget package](https://www.nuget.org/packages/TLEParser/):
+
+```
+> Install-Package TLEParser
+```
+
 ## Usage
 
 ```c#
